@@ -128,7 +128,7 @@ section {
 
 .btn.btn-primary {
   background: #2d71a1;
-  background: linear-gradient(-45deg, #1391a5, #274685);
+  background: #ef6191;
   color: #fff;
   box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.15);
 }
@@ -602,7 +602,7 @@ section {
 }
 
 #header.header-scrolled {
-  background: rgba(39, 70, 133, 0.8);
+  background: rgb(233 30 99 / 70%);
   height: 60px;
 }
 
@@ -1047,4 +1047,8 @@ section {
 .modal-001 img {
   width: 100%;
   margin-top: 10px;
+}
+
+.post-text h3 {
+  margin-top: 5px;
 }
