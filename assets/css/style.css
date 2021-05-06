@@ -1043,3 +1043,8 @@ section {
 .box-005 img {
   width: 100%;
 }
+
+.modal-001 img {
+  width: 100%;
+  margin-top: 10px;
+}
