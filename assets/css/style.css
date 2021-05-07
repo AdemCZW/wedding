@@ -113,6 +113,7 @@ section {
 .btn {
   border: none;
   padding: 15px 30px !important;
+  margin-top: 10px;
 }
 
 .btn.btn-outline-white {
@@ -1049,6 +1050,6 @@ section {
   margin-top: 10px;
 }
 
-.post-text h3 {
-  margin-top: 5px;
+.post-entry img {
+  box-shadow: 2px 2px 5px #bbb;
 }
