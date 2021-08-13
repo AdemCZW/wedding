@@ -1075,3 +1075,19 @@ section {
 .post-entry img {
   box-shadow: 2px 2px 5px #bbb;
 }
+
+
+.item {
+    width: 200px;
+    float: left;
+}
+.item img {
+    display: block;
+    width: 100%;
+}
+button {
+    font-size: 18px;
+}
+.container{
+    width:100%;
+}
