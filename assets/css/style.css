@@ -1091,3 +1091,12 @@ button {
 .container{
     width:100%;
 }
+
+.price-txt {
+  font-size: 1.5rem;
+  color: #000;
+}
+
+.price-txt-til {
+  color: rgb(233 30 99 / 70%);
+}
